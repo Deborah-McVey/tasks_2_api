@@ -35,3 +35,18 @@ created some tasks in Postman
 Body, raw, JSON
 
 refresh browser
+
+Ctrl C
+
+config/initializers.cors.rb
+
+set up factories with Faker
+
+seeds file
+
+rails db:seed
+
+faker in rails_helper.rb and controller
+bundle i
+
+check Front End

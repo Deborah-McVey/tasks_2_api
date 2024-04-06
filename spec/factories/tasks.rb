@@ -1,7 +1,7 @@
 FactoryBot.define do
   factory :task do
-    title { "MyString" }
-    description { "MyString" }
-    completed { false }
+    title { Faker::Lorem.sentence }
+    description { Faker::Lorem.sentence }
+    completed { Faker::Boolean }
   end
 end
