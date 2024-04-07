@@ -4,3 +4,4 @@
         description: Faker::Lorem.sentence,
         completed: Faker::Boolean,
     )
+end

@@ -20,6 +20,8 @@ rails g scaffold Task title:string description:string completed:boolean
 
 rails db:migrate
 
+put in validates
+
 rails s
 
 open browser to localhost:3000
