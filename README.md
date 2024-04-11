@@ -11,7 +11,7 @@ in development:
   gem 'factory_bot_rails'
   gem 'faker'
 
-rails bundle i  
+bundle i  
 
 rails g rspec:install
 rails active_storage:install 
